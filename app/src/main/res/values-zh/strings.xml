@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">华容道</string>
+    <string name="lang_code">zh</string>
+
+    <string name="tab_play">玩</string>
+    <string name="tab_rules">规矩</string>
+    <string name="tab_settings">设置</string>
+
+    <string name="loading">正在摆木盒…</string>
+    <string name="title_puzzle">第 %1$d 局 · %2$s</string>
+    <string name="status_start">把红的那块滑到下面的缺口，让他出去。</string>
+    <string name="status_drag">顺着槽推。</string>
+    <string name="status_blocked">这边顶住了，换个方向推。</string>
+    <string name="status_stuck">这块现在动不了。</string>
+    <string name="status_exiting">出去了！看他落到桌上。</string>
+    <string name="status_at_exit">到门口了，再往下拉一下。</string>
+    <string name="status_undid">退回了%1$s这一整步。</string>
+    <string name="status_restored">接着上次的，第 %1$d 步。</string>
+    <string name="status_hint_wait">提示马上就好。</string>
+    <string name="status_hint_on">照着那块半透明的推。</string>
+    <string name="status_coach">亮着的牌现在能动。</string>
+    <string name="steps_line">第 %1$d 步 · 最少 %2$d · 你最好 %3$s</string>
+    <string name="best_none">—</string>
+
+    <string name="btn_undo">悔一步</string>
+    <string name="btn_hint_off">给个提示</string>
+    <string name="btn_hint_on">提示：开</string>
+    <string name="btn_mute">静音</string>
+    <string name="btn_muted">已静音</string>
+    <string name="btn_reset">重摆</string>
+    <string name="btn_let_out">帮他出去</string>
+    <string name="btn_next">下一局</string>
+    <string name="btn_again">再来一次</string>
+    <string name="btn_start">开始</string>
+    <string name="btn_back_play">回到木盒</string>
+    <string name="btn_bring_box">把木盒放回来</string>
+    <string name="btn_cancel">取消</string>
+
+    <string name="result_title">出去了！%1$d 步。</string>
+    <string name="result_min">高手 %1$d 步。</string>
+    <string name="result_best">你最好：%1$d 步</string>
+    <string name="result_record">新纪录！</string>
+    <string name="result_hints">用了 %1$d 次提示</string>
+
+    <string name="confirm_reset">重新摆好？</string>
+    <string name="confirm_reset_line">这 %1$d 步就没了。</string>
+    <string name="confirm_yes_reset">重摆</string>
+    <string name="confirm_exit">退出华容道？</string>
+    <string name="confirm_exit_line">走到哪一步都记着，下次接着玩。</string>
+    <string name="confirm_yes_exit">退出</string>
+    <string name="lock_line">选好之前，木盒先停着。</string>
+
+    <string name="volume_closed">木盒关掉了。</string>
+    <string name="volume_closed_line">放回来以后，牌还在原来的地方。</string>
+
+    <string name="rules_title">规矩</string>
+    <string name="welcome_title">华容道怎么玩</string>
+    <string name="rules_1">牌只能在盒里滑，不能拿出来。</string>
+    <string name="rules_2">红的是曹操。让他从下面的缺口出去。</string>
+    <string name="rules_3">小卒才是钥匙，别只盯着曹操。</string>
+    <string name="rules_mistakes">常错 4 条</string>
+    <string name="mistake_1">牌不能抬、不能跳，只能顺着空格滑。</string>
+    <string name="mistake_2">曹操只能从中间那个口出去，边上出不去。</string>
+    <string name="mistake_3">先把关羽挪开，才有地方。</string>
+    <string name="mistake_4">走了很多步也没事，悔一步随时能用。</string>
+    <string name="rules_source">横刀立马，最少 81 步（Gardner 1964，电脑验证）。典故：关羽在华容道放走曹操。</string>
+    <string name="rules_how">捏住一块牌顺着槽推；也可以点一下牌，再点箭头。</string>
+
+    <string name="settings_title">设置</string>
+    <string name="settings_language">语言</string>
+    <string name="lang_system">跟随系统</string>
+    <string name="lang_zh">中文</string>
+    <string name="lang_en">English</string>
+    <string name="settings_sound">音效</string>
+    <string name="settings_volume">音量</string>
+    <string name="settings_reduced">减少动态</string>
+    <string name="settings_tilt">倾角</string>
+    <string name="settings_coach">首局教练</string>
+    <string name="settings_reopen_panel">重开控制窗</string>
+    <string name="settings_reopen_hint">面板会在木盒旁重新打开，用面板下方的系统把手挪到顺手的位置。</string>
+    <string name="settings_about_label">关于</string>
+    <string name="settings_about_text">版本 %1$s · 全离线 · 无广告</string>
+    <string name="settings_exit">退出应用</string>
+    <string name="opt_on">开</string>
+    <string name="opt_off">关</string>
+
+    <string name="plate_moves">第 %1$d 步 · 最少 %2$d</string>
+    <string name="plate_solved">解开了 · %1$d 步</string>
+    <string name="plate_pinch">捏一下牌，面板回来</string>
+    <string name="plate_restored">接着上次的</string>
+    <string name="level_hint">平视前方</string>
+
+    <string name="name_cao">曹操</string>
+    <string name="name_guan">关羽</string>
+    <string name="name_zhang">张飞</string>
+    <string name="name_zhao">赵云</string>
+    <string name="name_ma">马超</string>
+    <string name="name_huang">黄忠</string>
+    <string name="name_zu">小卒</string>
+    <string name="names_line">红 = 曹操 · 横牌 = 关羽 · 竖牌 = 张飞、赵云、马超、黄忠 · 小牌 = 卒</string>
+
+    <string-array name="puzzle_story">
+        <item>关羽横刀立马，在华容道放走了曹操。</item>
+        <item>小卒站在曹操左右两边。</item>
+        <item>四个小卒排成一排，齐头并进。</item>
+        <item>曹操坐镇中间，指挥若定。</item>
+        <item>大将把曹操围在园中。</item>
+        <item>兵马分成三路。</item>
+    </string-array>
+</resources>
